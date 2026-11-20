@@ -1,9 +1,0 @@
-/* Identidad de Taller El Moreno. La composición pertenece a Plantilla 1. */
-:root{--ink:#292b28;--muted:#555a52;--canvas:#f8f9f7;--pale:#edf0e9;--line:#dce0d8;--shadow:0 2px 4px #292b2808,0 12px 32px #292b2810;}
-.brand img{width:208px;height:74px;}
-.button-white{color:#292b28;}
-.button-white:hover{background:#edf0e9;}
-nav>a:hover{background:#edf0e9;}
-.media figcaption{background:#292b28ed;}
-:focus-visible{outline-color:#af790b;}
-@media(max-width:45.99rem){.brand img{width:180px;height:64px;}}
