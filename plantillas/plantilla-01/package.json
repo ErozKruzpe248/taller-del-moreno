@@ -1,0 +1,11 @@
+{
+  "name": "matangazo-plantilla-01",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node construir.mjs"
+  }
+}
